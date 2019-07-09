@@ -1,6 +1,9 @@
-import React from 'react';
+import React, {Component} from 'react';
 import logo from './logo.svg';
 import './App.css';
+import card from "./components/card";
+import wrapper from "./components/wrapper";
+import cards from "./cards.json";
 
 function App() {
   return (
