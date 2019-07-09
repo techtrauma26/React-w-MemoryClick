@@ -6,7 +6,7 @@ const navbar = props => (
     <div>React with ClickMemory</div>
     <div className={props.navMessageColor}>{props.navMessage}</div>
     <div>
-      Score: {props.score} <span className="pipe">|</span> High Score: {props.highScore}
+      Score: {props.score} <span className="line">|</span> High Score: {props.highScore}
     </div>
   </div>
 );
