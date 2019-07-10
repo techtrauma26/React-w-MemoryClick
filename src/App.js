@@ -1,29 +1,54 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
-// import card from "./components/card";
-// import wrapper from "./components/wrapper";
-// import cards from "./cards.json";
+import navbar from './components/navbar';
+import content from './components/content';
+import card from "./components/card";
+import wrapper from "./components/wrapper";
+import cards from "./cards.json";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+
+//use state 
+state = {
+
+  //Message on navbar set to correct & incorrect clicks
+
+
+  //State scoring
+  highScore: 10,
+  score: 0,
+
+  //Clicked images - array
+  clickedImg: [],
+
+  //Images of all players - use shufflearray ()
+  playerImg: [],
+  
+  //Shake image on incorrect clicks - set it to false 
+  shakeImg: false,
+
 }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 export default App;
