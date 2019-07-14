@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name" : "Federer",
-        "image": "https://tennishead.net/wp-content/uploads/2019/07/FEDERER-WIMBLEDON-29062019-11140.jpg"
+        "image": "https://tennishead.net/wp-content/uploads/2019/07/Roger-Federer-celebrates-at-Wimbledon.jpg"
     },
     {
         "id": 2,
@@ -37,5 +37,11 @@
         "id": 9,
         "name" : "Nishikori",
         "image": "https://tennishead.net/wp-content/uploads/2019/07/NISHIKORI-WIMBLEDON-02072019-11755.jpg"
+    },    {
+        "id": 10,
+        "name" : "Svitolina",
+        "image": "https://tennishead.net/wp-content/uploads/2019/07/ELINA-SVITOLINA-WIMBLEDONEDAY2-1042.jpg"
     }
+    
+
 ]
