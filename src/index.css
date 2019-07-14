@@ -1,10 +1,5 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-
-    background-image: url(/src/components/images/background.jpg);
+    background-image: url(../src/components/images/courtopen.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-  
 }

@@ -1,14 +1,6 @@
 import React from 'react';
-import './navbar.css';
+import './Navbar.css';
 
-const navbar = props => (
-  <div className="navbar ">
-    <div>React with ClickMemory</div>
-    <div className={props.navMessageColor}>{props.navMessage}</div>
-    <div>
-      Score: {props.score} <span className="line">|</span> High Score: {props.highScore}
-    </div>
-  </div>
-);
+const Navbar = props => <div className={props.shakeContent === "true" ? "shakeContainer" : "picContainer"}>{props.pictures}</div>;
 
-export default navbar;
+export default Navbar;
