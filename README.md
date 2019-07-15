@@ -6,12 +6,9 @@
 </p>
 
 <p align="center">
-  GitHub in your pocket. Built with React Native.
+React with MemoryClick-The Wimbledon 2019 Edition
 </p>
 
-
-
-![memoryClick](src\components\images\court.jpg)
 # React with MemoryClick- The Wimbledon 2019 Edition
 > This is a memory game built with React by splitting the application's UI into components, managing each component state, and creating a response to user events. 
 
