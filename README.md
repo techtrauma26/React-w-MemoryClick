@@ -1,7 +1,25 @@
-# React-w-MemoryClick
+<h1 text-align="center"> React with MemoryClick </h1> <br>
+<p align="center">
+  <a href="/">
+    <img alt="memoryClick" title="React with MemoryClick" src="src\components\images\court.jpg" width="450">
+  </a>
+</p>
+
+<p align="center">
+  GitHub in your pocket. Built with React Native.
+</p>
 
 
-Clicky Game
+
+![memoryClick](src\components\images\court.jpg)
+# React with MemoryClick- The Wimbledon 2019 Edition
+> This is a memory game built with React by splitting the application's UI into components, managing each component state, and creating a response to user events. 
+
+
+
+
+
+
 
 Overview
 For this assignment, you'll create a memory game with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
