@@ -1,12 +1,12 @@
-import React from "react";
-import "./Content.css";
+import React from "./node_modules/react";
+import "./content.css";
 
-const Content = props => (
+const content = props => (
     <div className="content">
       <div className="playerContainer">
         <img className=" img-responsive img-thumbnail" alt={props.name} src={props.image} onClick={() => props.memoryClick(props.id)}/>
       </div>
     </div>
   );
-  export default Content;
+  export default content;
   
