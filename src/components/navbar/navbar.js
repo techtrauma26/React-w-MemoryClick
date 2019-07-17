@@ -1,6 +1,6 @@
 import React from './node_modules/react';
-import './Navbar.css';
+import './navbar.css';
 
-const Navbar = props => <div className={props.shakeContent === "true" ? "shakeContainer" : "picContainer"}>{props.pictures}</div>;
+const navbar = props => <div className={props.shakeContent === "true" ? "shakeContainer" : "picContainer"}>{props.pictures}</div>;
 
-export default Navbar;
+export default navbar;
