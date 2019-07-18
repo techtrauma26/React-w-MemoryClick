@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import navbar from './components/navbar';
-import content from './components/content';
+import Navbar from './components/Navbar';
+import Content from './components/Content';
 import images from './images.json';
  
 
@@ -112,11 +112,11 @@ render() {
        <br></br>
        Wimbledon 2019 Edition
       </h4>
-      <navbar
+      <Navbar
       shakeContent = {this.state.shakeImg}
       pictures=
         {this.state.images.map(picture => (
-          <content
+          <Content
             memoryClick={this.memoryClick}
             id={picture.id}
             image={picture.image}
