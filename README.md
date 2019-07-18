@@ -15,23 +15,16 @@ React with MemoryClick-The Wimbledon 2019 Edition
 
 - [Introduction](#introduction)
 - [Setup](#setup)
-- [Features](#features)
+- [Example](#example)
 - [Technologies](#technologies)
 
+## Introduction 
 
+This full-stack application is built using React that renders different images to the screen, keeping track of users's score and shuffling the images in random order after each image is click.
 
+![image](src/components/images/capture.png)
 
+## Setup 
 
-The application should render different images (of your choice) to the screen. Each image should listen for click events.
+The application is deployed using Heroku. Click here to play [React with MemoryClick] (https://memoryclick.herokuapp.com/)
 
-
-The application should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
-
-
-Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
-
-
-Once the user's score is reset after an incorrect guess, the game should restart.
-
-
-When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
