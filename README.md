@@ -22,9 +22,10 @@ React with MemoryClick-The Wimbledon 2019 Edition
 
 This full-stack application is built using React that renders different images to the screen, keeping track of users's score and shuffling the images in random order after each image is click.
 
-![image](src/components/images/capture.png)
+![image](src/components/images/Capture.PNG)
 
 ## Setup 
 
-The application is deployed using Heroku. Click here to play [React with MemoryClick] (https://memoryclick.herokuapp.com/)
+The application is deployed using Heroku. Click here to play 
+[React with MemoryClick](https://memoryclick.herokuapp.com/)
 
