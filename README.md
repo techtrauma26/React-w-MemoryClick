@@ -29,3 +29,13 @@ This full-stack application is built using React that renders different images t
 The application is deployed using Heroku. Click here to play 
 [React with MemoryClick](https://memoryclick.herokuapp.com/)
 
+## Example 
+
+![example](src/components/images/purchase.gif)
+
+##Technologies
+
+* [React]
+* [Heroku]
+* [JavaScript](https://www.javascript.com/)
+* [NPM](https://www.npmjs.com/
