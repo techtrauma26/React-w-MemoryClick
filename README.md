@@ -31,7 +31,7 @@ The application is deployed using Heroku. Click here to play
 
 ## Example 
 
-![example](src/components/images/purchase.gif)
+![image](src/components/images/23.png)
 
 ##Technologies
 * [React](https://www.npmjs.com/)
