@@ -31,11 +31,12 @@ The application is deployed using Heroku. Click here to play
 
 ## Example 
 
-![example](src/components/images/purchase .gif)
+![example](src/components/images/purchase.gif)
 
 ##Technologies
-
-* [React]
-* [Heroku]
-* [JavaScript](https://www.javascript.com/)
-* [NPM](https://www.npmjs.com/)
+* [React](https://www.npmjs.com/)
+* [Node](https://www.npmjs.com/)
+* [Mongo](https://www.npmjs.com/)
+* [Handlebars](https://www.javascript.com/)
+* [Express](https://www.npmjs.com/)
+* [Mongoose](https://www.npmjs.com/)
