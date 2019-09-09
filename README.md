@@ -33,7 +33,8 @@ The application is deployed using Heroku. Click here to play
 
 ![image](src/components/images/23.png)
 
-##Technologies
+## Technologies
+
 * [React](https://www.npmjs.com/)
 * [Node](https://www.npmjs.com/)
 * [Mongo](https://www.npmjs.com/)
